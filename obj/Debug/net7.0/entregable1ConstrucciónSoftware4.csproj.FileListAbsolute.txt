@@ -1,0 +1,14 @@
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\bin\Debug\net7.0\entregable1ConstrucciónSoftware4.exe
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\bin\Debug\net7.0\entregable1ConstrucciónSoftware4.deps.json
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\bin\Debug\net7.0\entregable1ConstrucciónSoftware4.runtimeconfig.json
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\bin\Debug\net7.0\entregable1ConstrucciónSoftware4.dll
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\bin\Debug\net7.0\entregable1ConstrucciónSoftware4.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.AssemblyInfoInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.AssemblyInfo.cs
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.dll
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\refint\entregable1ConstrucciónSoftware4.dll
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\entregable1ConstrucciónSoftware4.genruntimeconfig.cache
+C:\Users\Sebastian Cuello\Desktop\projects\entregable1ConstrucciónSoftware4\obj\Debug\net7.0\ref\entregable1ConstrucciónSoftware4.dll
